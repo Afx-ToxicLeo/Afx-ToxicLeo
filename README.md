@@ -10,5 +10,5 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="http://wa.me/919497206865"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/ssbJkMh.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://discord.gg/fPrdqh3Zfu" alt="Dev Pro Tips Discussion & Support Server"><img width="32px" src="https://i.imgur.com/8fGarKq.png"/></a>
+  <a href="https://instagram.com/akash_ak_4?igshid=YmMyMTA2M2Y=" alt="Dev Pro Tips Discussion & Support Server"><img width="32px" src="https://i.imgur.com/8fGarKq.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
