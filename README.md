@@ -6,7 +6,7 @@
 
 <!-- Social icons section -->
 <p align="center">
-  <a href="https://www.youtube.com/c/DevProTips"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
+  <a href="https://is.gd/GrEQVH"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="http://wa.me/919497206865"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/ssbJkMh.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
