@@ -13,15 +13,14 @@
   <a href="https://instagram.com/akash_ak_4?igshid=YmMyMTA2M2Y=" alt="Dev Pro Tips Discussion & Support Server"><img width="32px" src="https://i.imgur.com/8fGarKq.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 
-
 ```python
-class RafnixG:
+class ToxicLeo:
 
     def __init__(self):
-        self.username = 'rafnixg'
-        self.name = 'Rafnix Guzmán'
-        self.web = 'https://rafnixg.dev'
-        self.twitter = '@rafnixg'
+        self.username = 'ToxicLeo'
+        self.name = 'Akash'
+        self.ig = 'akash_ak_4'
+        self.git = 'Afx-ToxicLeo'
         self.code = {
             'frontend': ['HTML', 'CSS', 'JavaScript', 'ReactJS', 'Svelte', 'Boostrap', 'TailWind'],
             'backend': ['Python', 'PHP', 'Flask', 'Django', 'Laravel', 'NodeJS', 'Odoo'],
@@ -37,7 +36,7 @@ class RafnixG:
 
 
 if __name__ == '__main__':
-    me = RafnixG()
+    me = ToxicLeo()
 
 
 ```
