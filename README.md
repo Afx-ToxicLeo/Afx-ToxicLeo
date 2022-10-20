@@ -15,10 +15,13 @@
 
 ```python
 <Bio 
-  name= { "Rohit Kumar Saini" }
-  course = { "BCA" }
-  year = {3}
-  college= { "Institute of Technology and Science, Ghaziabad" } 
+  name= { "Toxic Leo" }
+  Real name= { "Akash" }
+  Instagram= { "akash_ak_4" }
+  Age= { "19" }
+  course = { "BA" }
+  year = {2}
+  Place= { "India, Kerala" } 
 />
 
 
