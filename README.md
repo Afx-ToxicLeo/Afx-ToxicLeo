@@ -26,5 +26,5 @@
 
 
 ```
-<img src="https://i.imgur.com/L5Iz3EA.jpeg" alt="animated" width="540" height="280" />
+<img src="https://i.imgur.com/L5Iz3EA.jpeg"/>
 </p>
