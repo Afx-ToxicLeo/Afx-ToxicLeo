@@ -26,5 +26,3 @@
 
 
 ```
-<img src="https://i.imgur.com/fwhmyIJ.jpeg" alt="/>
-</p>
