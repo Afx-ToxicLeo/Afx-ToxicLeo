@@ -13,11 +13,4 @@
   <a href="https://instagram.com/akash_ak_4?igshid=YmMyMTA2M2Y=" alt="Dev Pro Tips Discussion & Support Server"><img width="32px" src="https://i.imgur.com/8fGarKq.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 
-<Bio 
-  name= { "TOXICLEO" }
-  Real name= { "Akash" }
-  course = { "BA" }
-  year = {2}
-  Age= { "19" } 
-  Place= { "Kerala" }
-/>
+
