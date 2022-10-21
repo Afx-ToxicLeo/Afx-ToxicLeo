@@ -51,17 +51,7 @@
 
 ![Metrics](https://metrics.lecoq.io/Afx-ToxicLeo?template=classic&followup=1&isocalendar=1&languages=1&isocalendar.duration=half-year&config.timezone=Europe%2FIstanbul)
 
-##
 
-## Another Pin Project
-<details>
-  <summary>My New WhatsApp Project</summary>
-   <a href="https://github.com/TOXIC-DEVIL/Leon">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TOXIC-DEVIL&repo=Leon">
-  </a>
-</details>
-
-<!--  
 <details>
   <summary>My New WhatsApp Bot Project</summary>
    <a href="https://github.com/Afx-ToxicLeo/">
