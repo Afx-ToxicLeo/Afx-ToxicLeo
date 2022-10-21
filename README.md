@@ -13,3 +13,19 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
 
 ![My card name](https://cardivo.vercel.app/api?name=Toxic%20-%20Leo™&description=Hi,%20Welcome%20To%20My%20Profile%20✨&image=https://i.imgur.com/T4szVse.jpeg=10?v=4&backgroundColor=%23ecf0f1&instagram=akash_ak_4&github=Afx-ToxicLeo&pattern=leaf&colorPattern=%23eaeaea)
+
+
+
+```python
+
+<Bio 
+  name= { "TOXICLEO" }
+  Real name= { "Akash" }
+  course = { "BA" }
+  year = {2}
+  Age= { "19" } 
+  Place= { "Kerala" }
+/>
+
+
+```
