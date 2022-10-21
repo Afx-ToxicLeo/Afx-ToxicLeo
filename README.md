@@ -48,13 +48,8 @@
 
 ![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
-![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=TOXIC-DEVIL&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)
 
-</details>
-
-##
-
-![Metrics](https://metrics.lecoq.io/TOXIC-DEVIL?template=classic&followup=1&isocalendar=1&languages=1&isocalendar.duration=half-year&config.timezone=Europe%2FIstanbul)
+![Metrics](https://metrics.lecoq.io/Afx-ToxicLeo?template=classic&followup=1&isocalendar=1&languages=1&isocalendar.duration=half-year&config.timezone=Europe%2FIstanbul)
 
 ##
 
