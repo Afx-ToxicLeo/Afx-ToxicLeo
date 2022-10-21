@@ -19,12 +19,12 @@
 ```python
 
 <Bio 
-  name= { "TOXICLEO" }
+  name= { "Toxic Leo" }
   Real name= { "Akash" }
-  course = { "BA" }
+  course = { "BA  Student / Small Develouper" } 
   year = {2}
   Age= { "19" } 
-  Place= { "Kerala" }
+  Place= { "India / Kerala" }   
 />
 
 
