@@ -12,8 +12,7 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://instagram.com/akash_ak_4?igshid=YmMyMTA2M2Y=" alt="Dev Pro Tips Discussion & Support Server"><img width="32px" src="https://i.imgur.com/8fGarKq.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-![My card name](https://cardivo.vercel.app/api?name=TOXICLEO%20-%20SER&description=Hi,%20Welcome%20To%20My%20Profile%20✨&image=https://i.imgur.com/T4szVse.jpegaeaea)
-```python
+
 <Bio 
   name= { "Toxic Leo" }
   Real name= { "Akash" }
