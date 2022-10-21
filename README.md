@@ -47,3 +47,36 @@
 </div>
 
 ![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+
+![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=TOXIC-DEVIL&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)
+
+</details>
+
+##
+
+![Metrics](https://metrics.lecoq.io/TOXIC-DEVIL?template=classic&followup=1&isocalendar=1&languages=1&isocalendar.duration=half-year&config.timezone=Europe%2FIstanbul)
+
+##
+
+## Another Pin Project
+<details>
+  <summary>My New WhatsApp Project</summary>
+   <a href="https://github.com/TOXIC-DEVIL/Leon">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TOXIC-DEVIL&repo=Leon">
+  </a>
+</details>
+
+<!--  
+<details>
+  <summary>My New WhatsApp Bot Project</summary>
+   <a href="https://github.com/Afx-ToxicLeo/">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Afx-ToxicLeo&repo=">
+  </a>
+  </details>
+  -->
+<!--
+<div align="center">
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=315xgtgvsvvhpdenuswkvvil3j5u&cover_image=true)" />
+  </div>
+-->
+
