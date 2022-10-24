@@ -12,7 +12,7 @@
   <a href="https://instagram.com/akash_ak_4?igshid=YmMyMTA2M2Y=" alt="Dev Pro Tips Discussion & Support Server"><img width="32px" src="https://i.imgur.com/8fGarKq.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 
-![My card name](https://cardivo.vercel.app/api?name=Toxic%20-%20Leo™&description=Hi,%20Welcome%20To%20My%20Profile%20✨&image=https://postimg.cc/2q4RnMHf=10?v=4&backgroundColor=%23ecf0f1&instagram=akash_ak_4&github=Afx-ToxicLeo&pattern=leaf&colorPattern=%23eaeaea)
+![My card name](https://cardivo.vercel.app/api?name=Toxic%20-%20Leo™&description=Hi,%20Welcome%20To%20My%20Profile%20✨&image=https://i.imgur.com/F9DPqBo.jpeg=10?v=4&backgroundColor=%23ecf0f1&instagram=akash_ak_4&github=Afx-ToxicLeo&pattern=leaf&colorPattern=%23eaeaea)
 
 
 
