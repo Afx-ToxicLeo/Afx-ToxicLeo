@@ -61,7 +61,7 @@
   -->
 <!--
 <div align="center">
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=315xgtgvsvvhpdenuswkvvil3j5u&cover_image=true)" />
+<img src=")" />
   </div>
 -->
 
