@@ -1,6 +1,6 @@
 
 <h3 align="center">
-   𝗶𝗮𝗺 𝗧𝗼𝘅𝗶𝗰 𝗟𝗲𝗼!
+   𝙸𝚊𝚖 𝚃𝚘𝚡𝚒𝚌 𝙻𝚎𝚘!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 <!-- Social icons section -->
