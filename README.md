@@ -1,32 +1,4 @@
 
-<h3 align="center">
-   
-![My card name](https://cardivo.vercel.app/api?name=Toxic%20-%20Leo™&description=Hi,%20Welcome%20To%20My%20Profile%20✨&image=https://i.imgur.com/F9DPqBo.jpeg=10?v=4&backgroundColor=%23ecf0f1&instagram=akash_ak_4&github=Afx-ToxicLeo&pattern=leaf&colorPattern=%23eaeaea)
-
-
-
-```python
-
-<Bio 
-  name= { "Toxic Leo" }
-  Real name= { "Akash" }
-  course = { "BA  Student / Small Develouper" } 
-  year = {2}
-  Age= { "19" } 
-  Place= { "India / Kerala" }   
-/>
-
-
-```
-![](https://komarev.com/ghpvc/?username=Afx-ToxicLeo28&color=447ff7&label=Visitor+count)
-
-<p align="center">
-  <a href="https://github.com/Afx-ToxicLeo">
-    <img src="https://github-readme-stats.vercel.app/api?username=Afx-ToxicLeo&show_icons=true&theme=github_dark&hide_border=true" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Afx-ToxicLeo&theme=github-dark-blue&hide_border=true" />
-    <img src="https://activity-graph.herokuapp.com/graph?username=Afx-ToxicLeo&theme=react-dark" />
-</a>
-</p>
 
 
 <p  align="center">
